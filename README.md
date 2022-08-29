@@ -1,4 +1,4 @@
-# www.vintage-collection.com
+# www.vintage-collections.com
 <!DOCTYPE html>
 <html lang="en">
 <head>
